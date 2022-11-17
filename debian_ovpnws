@@ -1,3 +1,11 @@
+#!/bin/bash
+#Script Variables
+HOST='174.138.190.54';
+USER='ksatunne_dogvipvpn';
+PASS='VaEnjZ({1p8{';
+DBNAME='ksatunne_dogvipvpn';
+PORT_TCP='1194';
+PORT_UDP='53';
 timedatectl set-timezone Asia/Riyadh
 install_require () {
 clear
